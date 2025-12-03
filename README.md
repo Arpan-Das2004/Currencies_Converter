@@ -1,56 +1,50 @@
-:
+# 🌍 Currency Converter
 
-🌍 Currency Converter
+A simple and interactive **Currency Converter** web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert an amount from one currency to another using live exchange rates.
 
-A simple and interactive Currency Converter web app built using HTML, CSS, and JavaScript. It allows users to convert an amount from one currency to another using live exchange rates.
+---
 
-🚀 Features
+## 🚀 Features
 
-🔄 Convert any amount between two currencies
+- 🔄 Convert any amount between two currencies  
+- 🌐 Uses **real-time exchange rates** from a public API  
+- 🎨 Clean and responsive UI  
+- ⚡ Lightweight and fast  
+- 📱 Mobile-friendly design  
 
-🌐 Fetches real-time exchange rates (API-based)
+---
 
-🎨 Clean and responsive UI
+## 🛠️ Technologies Used
 
-⚡ Fast and lightweight (no frameworks needed)
+- **HTML5** – Page structure  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript (ES6)** – Logic, event handling, and API fetching  
+- **Exchange Rate API** – Provides live conversion rates  
 
-📱 Works on all devices
+---
 
-🛠️ Technologies Used
+## 📂 Project Structure
 
-HTML5 – Structure of the app
-
-CSS3 – Layout, design & responsiveness
-
-JavaScript (ES6) – Fetch API, calculations & event handling
-
-Exchange Rate API – Provides live currency rates
-(You may use APIs like exchangerate-api.com, open.er-api.com, or any free rate source.)
-
-📂 Project Structure
 currency-converter/
 │
 ├── index.html
 ├── style.css
 └── script.js
 
-⚙️ How It Works
 
-User enters an amount
+---
 
-User selects From Currency and To Currency
+## ⚙️ How It Works
 
-JavaScript fetches the latest exchange rate from the API
+1. User enters an amount  
+2. User selects **From Currency** and **To Currency**  
+3. JavaScript fetches the latest exchange rate from the API  
+4. The converted result is displayed instantly  
 
-Converted value is displayed instantly
+---
 
-🧪 How to Run the Project
+## 🧪 How to Run
 
-Download or clone the repository:
-
-git clone https://github.com/Arpan-Das2004/Currency_Converter.git
-
-
-Open index.html in any browser
-
-Make sure your API key (if required) is added correctly in script.js
+1. Download or clone the repository  
+   ```bash
+   git clone https://github.com/Arpan-Das2004/Currencies_Converter.git
